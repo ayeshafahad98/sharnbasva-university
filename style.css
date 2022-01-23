@@ -1,0 +1,39 @@
+.header{
+    background-color: aqua;
+    text-align: center;
+    background-image: url(download.jpg);
+    background-size: cover;
+}
+.nav{
+    background-color: black;
+    color: white;
+    display:flex;
+    align-items: center;
+    justify-content: space-between;
+    padding: 10px;
+}
+a{
+    color: white;
+}
+h1{
+    font-size: 45px;
+    margin: 50px;
+}
+.content{
+    display:flex;
+    flex-wrap: wrap;
+    justify-content: space-around;
+}
+.content{
+    color: black;
+}
+.footer img{
+    width: 70px;
+    height: 50px;
+}
+.footer{
+    display: flex;
+    justify-content: space-around;
+    background-color: black;
+    color: white;
+}
